@@ -1,6 +1,6 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
-## NAME : HIRUTHIK SUDHAKAR
-## REGISTER NUMBER : 212223240054
+.20 # Ex. No:1b 			Study of Client Server Chat Applications
+## NAME : AADHITHYA L
+## REGISTER NUMBER : 212224220003
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
